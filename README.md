@@ -1,1 +1,2 @@
 # emoji-game
+This is a simple emoji guessing game. Some emojis will be displayed to the user. The user has to guess the emoji. The score will be given based on the no. correct guesses. A timer will be running. The user have to guess the emoji before the given time otherwise the score will be given based on the no. of guesses the user has made. Once the time will be finished or the user has attempted all the questions, the final score will be displayed on the screen.
